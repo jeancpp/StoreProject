@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\jeanc\\Documents\\UDEMY\\StoreProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E6D76624-660C-42DF-A613-6B9BB078A30D}|StoreProject\\StoreProject.csproj|c:\\users\\jeanc\\documents\\udemy\\storeproject\\storeproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E6D76624-660C-42DF-A613-6B9BB078A30D}|StoreProject\\StoreProject.csproj|solutionrelative:storeproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{E6D76624-660C-42DF-A613-6B9BB078A30D}|StoreProject\\StoreProject.csproj|c:\\users\\jeanc\\documents\\udemy\\storeproject\\storeproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6D76624-660C-42DF-A613-6B9BB078A30D}|StoreProject\\StoreProject.csproj|solutionrelative:storeproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6D76624-660C-42DF-A613-6B9BB078A30D}|StoreProject\\StoreProject.csproj|c:\\users\\jeanc\\documents\\udemy\\storeproject\\storeproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6D76624-660C-42DF-A613-6B9BB078A30D}|StoreProject\\StoreProject.csproj|solutionrelative:storeproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E6D76624-660C-42DF-A613-6B9BB078A30D}|StoreProject\\StoreProject.csproj|c:\\users\\jeanc\\documents\\udemy\\storeproject\\storeproject\\views\\adminproduct\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6D76624-660C-42DF-A613-6B9BB078A30D}|StoreProject\\StoreProject.csproj|solutionrelative:storeproject\\views\\adminproduct\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D76624-660C-42DF-A613-6B9BB078A30D}|StoreProject\\StoreProject.csproj|c:\\users\\jeanc\\documents\\udemy\\storeproject\\storeproject\\controllers\\adminproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D76624-660C-42DF-A613-6B9BB078A30D}|StoreProject\\StoreProject.csproj|solutionrelative:storeproject\\controllers\\adminproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D76624-660C-42DF-A613-6B9BB078A30D}|StoreProject\\StoreProject.csproj|c:\\users\\jeanc\\documents\\udemy\\storeproject\\storeproject\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D76624-660C-42DF-A613-6B9BB078A30D}|StoreProject\\StoreProject.csproj|solutionrelative:storeproject\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D76624-660C-42DF-A613-6B9BB078A30D}|StoreProject\\StoreProject.csproj|c:\\users\\jeanc\\documents\\udemy\\storeproject\\storeproject\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D76624-660C-42DF-A613-6B9BB078A30D}|StoreProject\\StoreProject.csproj|solutionrelative:storeproject\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E6D76624-660C-42DF-A613-6B9BB078A30D}|StoreProject\\StoreProject.csproj|c:\\users\\jeanc\\documents\\udemy\\storeproject\\storeproject\\controllers\\admincategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,41 +39,75 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\jeanc\\Documents\\UDEMY\\StoreProject\\StoreProject\\appsettings.json",
-              "RelativeDocumentMoniker": "StoreProject\\appsettings.json",
-              "ToolTip": "C:\\Users\\jeanc\\Documents\\UDEMY\\StoreProject\\StoreProject\\appsettings.json",
-              "RelativeToolTip": "StoreProject\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-10T02:45:03.938Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AdminCategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\jeanc\\Documents\\UDEMY\\StoreProject\\StoreProject\\Controllers\\AdminCategoryController.cs",
-              "RelativeDocumentMoniker": "StoreProject\\Controllers\\AdminCategoryController.cs",
-              "ToolTip": "C:\\Users\\jeanc\\Documents\\UDEMY\\StoreProject\\StoreProject\\Controllers\\AdminCategoryController.cs",
-              "RelativeToolTip": "StoreProject\\Controllers\\AdminCategoryController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T02:42:59.928Z",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\jeanc\\Documents\\UDEMY\\StoreProject\\StoreProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StoreProject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\jeanc\\Documents\\UDEMY\\StoreProject\\StoreProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StoreProject\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAADoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T03:46:03.652Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jeanc\\Documents\\UDEMY\\StoreProject\\StoreProject\\Program.cs",
-              "RelativeDocumentMoniker": "StoreProject\\Program.cs",
-              "ToolTip": "C:\\Users\\jeanc\\Documents\\UDEMY\\StoreProject\\StoreProject\\Program.cs",
-              "RelativeToolTip": "StoreProject\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAaAAAA",
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\jeanc\\Documents\\UDEMY\\StoreProject\\StoreProject\\Views\\AdminProduct\\Add.cshtml",
+              "RelativeDocumentMoniker": "StoreProject\\Views\\AdminProduct\\Add.cshtml",
+              "ToolTip": "C:\\Users\\jeanc\\Documents\\UDEMY\\StoreProject\\StoreProject\\Views\\AdminProduct\\Add.cshtml",
+              "RelativeToolTip": "StoreProject\\Views\\AdminProduct\\Add.cshtml",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAAEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T03:42:03.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminProductController.cs",
+              "DocumentMoniker": "C:\\Users\\jeanc\\Documents\\UDEMY\\StoreProject\\StoreProject\\Controllers\\AdminProductController.cs",
+              "RelativeDocumentMoniker": "StoreProject\\Controllers\\AdminProductController.cs",
+              "ToolTip": "C:\\Users\\jeanc\\Documents\\UDEMY\\StoreProject\\StoreProject\\Controllers\\AdminProductController.cs",
+              "RelativeToolTip": "StoreProject\\Controllers\\AdminProductController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T02:42:38.363Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-02T03:31:46.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jeanc\\Documents\\UDEMY\\StoreProject\\StoreProject\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "StoreProject\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\jeanc\\Documents\\UDEMY\\StoreProject\\StoreProject\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "StoreProject\\Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T18:57:26.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jeanc\\Documents\\UDEMY\\StoreProject\\StoreProject\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "StoreProject\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\jeanc\\Documents\\UDEMY\\StoreProject\\StoreProject\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "StoreProject\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA5wCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T18:57:25.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminCategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\jeanc\\Documents\\UDEMY\\StoreProject\\StoreProject\\Controllers\\AdminCategoryController.cs",
+              "RelativeDocumentMoniker": "StoreProject\\Controllers\\AdminCategoryController.cs",
+              "ToolTip": "C:\\Users\\jeanc\\Documents\\UDEMY\\StoreProject\\StoreProject\\Controllers\\AdminCategoryController.cs",
+              "RelativeToolTip": "StoreProject\\Controllers\\AdminCategoryController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCoAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T18:23:16.432Z"
             }
           ]
         }

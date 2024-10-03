@@ -11,6 +11,7 @@ builder.Services.AddDbContext<StoreDbContext>(option =>
 option.UseSqlServer(builder.Configuration.GetConnectionString("StoreDbConnectionString")));
 
 builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
+builder.Services.AddScoped<IProductRepository, ProductRepository>();
 
 var app = builder.Build();
 

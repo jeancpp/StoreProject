@@ -15,6 +15,6 @@ namespace StoreProject.Models.ViewModels
         public bool Visible { get; set; }
 
         public IEnumerable<SelectListItem> Categories { get; set; }
-        public string SelectedCategories { get; set; }
+        public string[] SelectedCategories { get; set; } = Array.Empty<string>();
     }
 }

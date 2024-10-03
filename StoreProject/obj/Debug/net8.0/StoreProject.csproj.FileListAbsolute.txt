@@ -134,3 +134,4 @@ C:\Users\jeanc\Documents\UDEMY\StoreProject\StoreProject\obj\Debug\net8.0\refint
 C:\Users\jeanc\Documents\UDEMY\StoreProject\StoreProject\obj\Debug\net8.0\StoreProject.pdb
 C:\Users\jeanc\Documents\UDEMY\StoreProject\StoreProject\obj\Debug\net8.0\StoreProject.genruntimeconfig.cache
 C:\Users\jeanc\Documents\UDEMY\StoreProject\StoreProject\obj\Debug\net8.0\ref\StoreProject.dll
+C:\Users\jeanc\Documents\UDEMY\StoreProject\StoreProject\obj\Debug\net8.0\StoreProject.sourcelink.json
